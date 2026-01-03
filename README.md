@@ -1,3 +1,4 @@
+# WORK IN PROGRESS
 # Discord Sentiment Analysis Bot
 
 A Discord bot that asks thought-provoking questions and analyzes the sentiment of user responses using machine learning.
